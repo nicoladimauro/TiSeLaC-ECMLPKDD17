@@ -8,4 +8,4 @@ The architecture ranked first, out of 21 teams, comprises modules using dense mu
 The code reproduces the obtained results as reported in the following paper:
 
 Nicola Di Mauro, Antonio Vergari, Teresa M.A. Basile, Fabrizio G. Ventola, Floriana Esposito. [End-to-end Learning of Deep Spatio-temporal
-Representations for Satellite Image Time Series Classification]((www.di.uniba.it/~ndm/pubs/dimauro17ecmldc.pdf)), In:  Proceedings of the ECML/PKDD Discovery Challenges, 2017
+Representations for Satellite Image Time Series Classification](http://www.di.uniba.it/~ndm/pubs/dimauro17ecmldc.pdf), In:  Proceedings of the ECML/PKDD Discovery Challenges, 2017
