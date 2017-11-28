@@ -1,12 +1,12 @@
 # TiSeLaC-ECMLPKDD17
 TiSeLaC ECML/PKDD 2017 discovery challenge solution
 
-This repo hosts the first-place solution to the discovery challenge on [**Time Series Land cover Classification (_TiSeLaC_)**](https://sites.google.com/site/dinoienco/tiselc), organized in conjunction of ECML PKDD 2017. 
+This repo hosts the first-place solution to the discovery challenge on [**Time Series Land cover Classification (_TiSeLaC_)**](https://sites.google.com/site/dinoienco/tiselc), organized in conjunction of [**ECML-PKDD 2017**](http://ecmlpkdd2017.ijs.si/). 
 
 The challenge consists in predicting the Land Cover class of a set of pixels given their image time series data acquired by the satellites. We propose an *end-to-end* learning approach leveraging *both temporal and spatial information* and requiring very little data preprocessing and feature engineering. 
 
 ## architecture
-The architecture ranked first---out of 21 teams---comprises different modules using dense multi-layer perceptrons, one-dimensional dilated convolutional and fully connected one-dimensional convolutiona neural layers. 
+The architecture---ranked first out of 21 teams---comprises different modules using dense multi-layer perceptrons, one-dimensional dilated convolutional and fully connected one-dimensional convolutiona neural layers. 
 
 ## requirements
 To run, the following libraries are required:
