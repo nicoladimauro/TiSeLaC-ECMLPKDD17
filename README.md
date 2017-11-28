@@ -11,9 +11,9 @@ The architecture ranked first---out of 21 teams---comprises different modules us
 ## requirements
 To run, the following libraries are required:
 
-    * [numpy (1.10+)](http://www.numpy.org/),
-    * [sklearn (0.18+)](http://scikit-learn.org/stable/),
-    * [keras (2.0+)](http://http://keras.io/) (we used [Theano](http://deeplearning.net/software/theano/) as a backend).
+  * [numpy (1.10+)](http://www.numpy.org/),
+  * [sklearn (0.18+)](http://scikit-learn.org/stable/),
+  * [keras (2.0+)](http://http://keras.io/) (we used [Theano](http://deeplearning.net/software/theano/) as a backend).
 
 ## usage
 To train on the full training data, and predict for the whole test, you can run:
