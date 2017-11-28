@@ -191,7 +191,7 @@ complete_model.compile(loss='categorical_crossentropy',
 plot_model(complete_model, to_file='model.png', show_shapes=True, show_layer_names=False)
 
 complete_model.fit(TRAIN, y_train, batch_size=32,
-                   epochs=20, verbose=1)
+                   epochs=7, verbose=1)
 
 
 print("Train")
